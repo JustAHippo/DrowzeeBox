@@ -1,0 +1,12 @@
+uvicorn
+aiofiles
+starlette
+fastapi
+requests
+discord_webhook
+filesplit
+cryptography
+redis
+pymongo
+natsort
+python-multipart

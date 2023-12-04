@@ -1,0 +1,7 @@
+{
+    "key": "BASE64_FERNET_KEY",
+    "mongo": "MONGO_DB_STRING",
+    "redis_host": "REDIS_HOST",
+    "redis_port": 6379,
+    "webhook": "WEBHOOK_URL"
+  }
