@@ -1,5 +1,4 @@
 .idea
-tmp
 venv
 __pycache__
 config.json
